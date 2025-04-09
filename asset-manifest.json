@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/syria-acadime/static/css/main.fe057709.css",
+    "main.js": "/syria-acadime/static/js/main.7a62684e.js",
+    "static/media/logo.png": "/syria-acadime/static/media/logo.2788006606067db9f55a.png",
+    "index.html": "/syria-acadime/index.html",
+    "main.fe057709.css.map": "/syria-acadime/static/css/main.fe057709.css.map",
+    "main.7a62684e.js.map": "/syria-acadime/static/js/main.7a62684e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe057709.css",
+    "static/js/main.7a62684e.js"
+  ]
+}
